@@ -22,7 +22,7 @@
 
     **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year/Months/Quarters](https://github.com/SanthiVarma-24/Excel---Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Months.pdf) 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets]_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets-FY](https://github.com/SanthiVarma-24/Excel---Sales-Analytics/blob/main/P%26L%20Statement%20by%20FY.pdf)
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
